@@ -1,4 +1,4 @@
-# Travelling_Salesman
+# Traveling_Salesman
 
 
 Suppose there are a number of "cities," as in Figure 1 below. The distance between any two
